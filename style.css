@@ -1,0 +1,198 @@
+.navbar-brand{
+    font-size: 2rem;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+.navbar-brand:hover{
+    color: beige;
+
+}
+.nav-link{
+    color: white;
+    margin: 0 10px;
+    text-transform: uppercase;
+}
+.dropdown-item{
+    color: white;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: white;
+}
+#home{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./images/3.jpg);
+    background-size:cover;
+    height: 100vh;
+    width:100%;
+    background-position: 50% 50%;
+    
+}
+#home h1{
+    font-size: 4rem;
+    font-family: 'Lobster', cursive;
+    font-weight: 700;
+    color: white;
+    margin: auto;
+    padding-top: 50%;
+    text-align: center;
+}
+#home h6{
+    font-size: 1.5rem;
+    font-weight: 200;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+#home button{
+    height: 45px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 50px;
+    align-items: center;
+}
+#section-icons vegitarian{
+    padding-top: 20px;
+}
+
+.card:hover{
+    -webkit-box-shadow: 9px 18px 43px 21px rgba(0,0,0,0.82);
+-moz-box-shadow: 9px 18px 43px 21px rgba(0,0,0,0.82);
+box-shadow: 9px 18px 43px 21px rgba(0,0,0,0.82);
+transition: 0.5;
+}
+
+
+#aboutus h1{
+    font-family: 'Montserrat', sans-serif;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.menucontainer h1{
+    font-family: 'Montserrat', sans-serif;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    margin-bottom: 30px;
+}
+
+/* cakes */
+#products-cakes button{
+    height: 40px;
+    width: 40%;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+#products-cakes h3{
+    margin-right: auto;
+    margin-bottom: 50px;
+    font-family: 'Allura', cursive;
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+
+/* bevarages*/
+
+#products-bevarages h3{
+    margin-top: 0;
+    padding-top: 0;
+    margin-right: auto;
+    margin-bottom: 50px;
+    font-family: 'Allura', cursive;
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+#products-bevarages button{
+    height: 40px;
+    width: 40%;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+/* icecreams*/
+
+#products-icecreams h3{
+    margin-top: 0;
+    padding-top: 0;
+    margin-right: auto;
+    margin-bottom: 50px;
+    font-family: 'Allura', cursive;
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+#products-icecreams button{
+    height: 40px;
+    width: 40%;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.c-item{
+    height:500px;
+
+}
+.c-img{
+height:100vh;
+width:100vw;
+object-fit: cover;
+filter: brightness(0.6);
+}
+#Explore h5{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 3rem;
+    font-family:'Rubik', sans-serif;
+    font-weight: 400;
+}
+
+#aboutus p{
+    margin-top: 25%;
+    text-align: justify;
+}
+
+#aboutus logo1{
+    position: absolute;
+    margin-top: 50%;
+
+}
+#aboutus logoimg{
+    position: relative;
+    height: 50%;
+    width: 50%;
+}
+
+#contactus{
+    background-color: black;
+    padding-bottom: 20PX;
+    margin-top: 0;
+}
+
+#contactus p{
+    color: white;
+    font-size: 1rem;
+}
+
+#contactus h4{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+#contactus a{
+    text-decoration: none;
+}
+.contact{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+#contactus h1{
+    margin-bottom: 0;
+    padding-top: 0;
+    color: white;
+}
+#products-icecreams{
+    margin-bottom: 30px;
+}
